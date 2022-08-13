@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatePrivs", "ElevatePrivs\ElevatePrivs.csproj", "{E5E2B2B3-8D25-4287-8640-92E851A69303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeUser", "ChangeUser\ChangeUser.csproj", "{1DE64225-233A-45CC-B3DC-27DD3101B8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E2B2B3-8D25-4287-8640-92E851A69303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E2B2B3-8D25-4287-8640-92E851A69303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E2B2B3-8D25-4287-8640-92E851A69303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E2B2B3-8D25-4287-8640-92E851A69303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE64225-233A-45CC-B3DC-27DD3101B8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE64225-233A-45CC-B3DC-27DD3101B8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE64225-233A-45CC-B3DC-27DD3101B8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE64225-233A-45CC-B3DC-27DD3101B8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F98CCC5-863A-465A-9C81-A6B65BEF0355}
+	EndGlobalSection
+EndGlobal
